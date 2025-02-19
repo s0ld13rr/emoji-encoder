@@ -11,7 +11,6 @@
 ```bash
 git clone https://github.com/yourrepo/emoji-encoder.git
 cd emoji-encoder
-pip install -r requirements.txt
 ```
 
 ## 📌 Использование
